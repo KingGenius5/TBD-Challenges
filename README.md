@@ -1,7 +1,5 @@
 # 🧪 tdd-bdd-challenge
 
-BEW 1.2 Day 9 challenges!
-
 **Clone or fork this repo to begin.**
 
 ## TDD Practice
